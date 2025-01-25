@@ -1,3 +1,4 @@
+* зміни для перевірки версій
 from random import choice, shuffle
 from time import sleep
 from PyQt5.QtWidgets import QApplication
